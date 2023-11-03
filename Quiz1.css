@@ -1,0 +1,30 @@
+.jumbotron {
+  background-color: rgb(39, 132, 219);
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.container {
+  margin: 40px;
+}
+
+.list-opt {
+  list-style-type: none;
+  display: flex;
+  padding: 0px;
+  .opt {
+    margin-right: 10px;
+    background-color: rgb(187, 221, 243);
+    padding: 5PX;
+    border-radius: 2PX;
+  }
+}
+
+.btn{
+    margin-right: 10px;
+    background-color: rgb(187, 221, 243);
+    padding: 5PX;
+    border-radius: 2PX;
+    border: 0px;
+}
